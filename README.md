@@ -29,4 +29,10 @@ React-Native CLI : exp. dev with android and ios programmig.
 1. Install Node veriosn 12+
 2. Install expo CLI globally
 3. Install expo application from playstore for physical config of apps during dev.
-4. Extension for VSCode : react native tools, 
+4. Extension for VSCode : react native tools, react-native snippets.
+
+# Setting up project
+
+1. npx create-expo-app --template ( using blank template )
+2. Install Expo-Go for android simullation on anroid phone or use anroid studio for virtual simullation.
+3. 
